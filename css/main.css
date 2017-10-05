@@ -1,0 +1,25 @@
+html {
+  background-color: #f2f1ed;
+  font-family: 'Patua One', cursive;
+  line-height: 1.5;}
+img {
+  width: 100%;}
+figcaption {
+  font-style: italic;
+  text-align: center;
+  font-size: 1.125rem;
+}
+h1, h2, h3{
+color: #5d8432;
+text-transform: uppercase;
+}
+ul {
+  font-style: bold;
+  font-size: 1.125rem;
+}
+a {
+  color: #793284;
+  text-decoration: none;
+}
+a:hover {
+  color: #b42885;
