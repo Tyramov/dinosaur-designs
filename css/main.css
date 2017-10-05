@@ -11,7 +11,6 @@ img {
 figcaption {
   font-style: italic;
   text-align: center;
-  font-size: 1.125rem;
 }
 
 h2 {
@@ -20,7 +19,13 @@ h2 {
   font-family: "Patua One", cursive;
 }
 
-ul {
+.fig {
+  font-style: italic;
+  text-align: center;
+  font-size: .7rem;
+}
+
+ol {
   font-family: "Patua One", cursive;
   font-weight: bold;
   font-size: 1.125rem;
